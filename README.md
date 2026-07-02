@@ -1,162 +1,111 @@
-<!-- =============================== -->
-<!-- Animated Banner -->
-<!-- =============================== -->
+# Hi 👋 I'm Qamar Idrees
 
+```{=html}
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Qamar%20Idrees&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:0072FF,100:8E2DE2&text=Qamar%20Idrees&fontSize=60&fontColor=ffffff&animation=twinkling"/>`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋 I'm Qamar Idrees</h1>
-
+```
+```{=html}
 <h3 align="center">
-💻 Frontend Developer | PHP & MySQL Learner | Future Full Stack Developer 🚀
+```
+🚀 Frontend Developer \| PHP & MySQL Learner \| Future Full Stack
+Developer 🇵🇰
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;PHP+Developer;MySQL+Database;Learning+Laravel;Future+Full+Stack+Developer;Welcome+to+My+GitHub!"/>
-
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub;Frontend+Developer;PHP+%26+MySQL;Learning+Laravel;Building+Real+Projects;Keep+Coding+Keep+Growing+🚀"/>`{=html}
+```{=html}
 </p>
+```
+## 🌟 About Me
 
----
+-   🌱 Learning **PHP, MySQL, Laravel**
+-   💻 HTML, CSS, JavaScript, jQuery, Bootstrap
+-   🚀 Building real-world projects
+-   🎯 Goal: Professional Full Stack Developer
+-   📍 Pakistan 🇵🇰
 
-# 🌟 About Me
+## 💻 Tech Stack
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 Learning **PHP, MySQL & Laravel**
-- 💻 HTML, CSS, JavaScript, Bootstrap, jQuery
-- 🚀 Building Real Projects
-- 🎯 Future Full Stack Developer
-- 🎥 Content Creator
-- 🇵🇰 Pakistan
-
----
-
-# 💻 Tech Stack
-
+```{=html}
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,git,github,vscode&theme=dark"/>
-
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,laravel,git,github,vscode&theme=dark"/>`{=html}
+```{=html}
 </p>
+```
+## 📊 GitHub Stats
 
----
-
-# 🧰 Tools
-
+```{=html}
 <p align="center">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-
+```
+`<img width="48%" src="https://github-readme-stats.vercel.app/api?username=qamaridrees123&show_icons=true&theme=tokyonight"/>`{=html}
+`<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamaridrees123&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
+## 🔥 GitHub Streak
 
----
-
-# 📊 GitHub Stats
-
+```{=html}
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=qamaridrees123&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamaridrees123&layout=compact&theme=tokyonight"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=qamaridrees123&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
+## 📈 Activity Graph
 
----
-
-# 🔥 GitHub Streak
-
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=qamaridrees123&theme=tokyonight"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=qamaridrees123&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
+## 🏆 GitHub Trophies
 
----
-
-# 📈 Contribution Graph
-
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qamaridrees123&theme=tokyo-night"/>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=qamaridrees123&theme=algolia&row=2&column=4"/>`{=html}
+```{=html}
 </p>
+```
+## 🚀 Featured Projects
 
----
+-   🏠 IG Estate
+-   📚 Student Management System
+-   🛒 E-Commerce Website
+-   👤 Personal Portfolio
 
-# 🏆 GitHub Trophy
+## 🌐 Connect With Me
 
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=qamaridrees123&theme=algolia&row=2&column=4"/>
-
+```
+`<a href="https://github.com/qamaridrees123">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/qamar-idrees-468224376">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+## 👀 Visitors
 
----
-
-# ⚡ Current Focus
-
-✅ PHP
-
-✅ MySQL
-
-✅ Bootstrap
-
-✅ JavaScript
-
-✅ Laravel
-
-✅ Real Estate CRM
-
----
-
-# 🚀 My Projects
-
-🏠 Real Estate Website
-
-📚 Student Management System
-
-🛒 E-Commerce Website
-
-👤 Personal Portfolio
-
----
-
-# 🌐 Connect With Me
-
+```{=html}
 <p align="center">
-
-<a href="https://github.com/qamaridrees123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=qamaridrees123&style=for-the-badge&color=blueviolet"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 👀 Visitors
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=qamaridrees123&style=for-the-badge&color=blueviolet"/>
-
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:8E2DE2,100:00F5FF"/>`{=html}
+```{=html}
 </p>
-
----
-
-<p align="center">
-
-## 💬 Quote
-
-### 🚀 *"Dream Big • Code Daily • Never Give Up."*
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
-</p>
+```
