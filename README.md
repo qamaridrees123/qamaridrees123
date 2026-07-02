@@ -1,69 +1,162 @@
-<h1 align="center">Hi 👋, I'm Qamar Idrees</h1>
-<h3 align="center">🚀 Frontend Developer (Learning) | Content Creator | Pakistan 🇵🇰</h3>
+<!-- =============================== -->
+<!-- Animated Banner -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+(Learning);HTML+CSS+JavaScript;Future+Full+Stack+Developer;Content+Creator;Keep+Coding+Keep+Growing+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Qamar%20Idrees&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Qamar Idrees</h1>
+
+<h3 align="center">
+💻 Frontend Developer | PHP & MySQL Learner | Future Full Stack Developer 🚀
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;PHP+Developer;MySQL+Database;Learning+Laravel;Future+Full+Stack+Developer;Welcome+to+My+GitHub!"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🌟 About Me
 
-- 💻 Currently learning **Frontend Web Development**
-- 🧠 Working with **HTML, CSS, JavaScript, jQuery, Bootstrap**
-- 🎥 Content Creator (Cricket & Digital Media)
-- 🚀 Goal: Become a **Professional Full Stack Developer**
-- 📍 Based in **Pakistan 🇵🇰**
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 Learning **PHP, MySQL & Laravel**
+- 💻 HTML, CSS, JavaScript, Bootstrap, jQuery
+- 🚀 Building Real Projects
+- 🎯 Future Full Stack Developer
+- 🎥 Content Creator
+- 🇵🇰 Pakistan
 
 ---
 
-## 🛠️ Technologies I'm Learning
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,git,github,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧰 Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qamaridrees123&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamaridrees123&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qamaridrees123&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=qamaridrees123&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamaridrees123&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/qamaridrees123">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=qamaridrees123&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👀 Profile Visitors
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qamaridrees123&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qamaridrees123&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## ⚡ Fun Code
+# 🏆 GitHub Trophy
 
-```js
-const success = () => {
-  return "HTML + CSS + JavaScript + Consistency 🚀";
-};
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=qamaridrees123&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Current Focus
+
+✅ PHP
+
+✅ MySQL
+
+✅ Bootstrap
+
+✅ JavaScript
+
+✅ Laravel
+
+✅ Real Estate CRM
+
+---
+
+# 🚀 My Projects
+
+🏠 Real Estate Website
+
+📚 Student Management System
+
+🛒 E-Commerce Website
+
+👤 Personal Portfolio
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/qamaridrees123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=qamaridrees123&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<p align="center">
+
+## 💬 Quote
+
+### 🚀 *"Dream Big • Code Daily • Never Give Up."*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+</p>
