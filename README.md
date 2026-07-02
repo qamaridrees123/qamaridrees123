@@ -34,12 +34,18 @@
 ---
 
 # 💻 Tech Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,git,github,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php"/>
+
+<img src="https://img.shields.io/badge/MySQL-Database-005C84?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Laravel-Learning-FF2D20?style=for-the-badge&logo=laravel"/>
 
 </p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
